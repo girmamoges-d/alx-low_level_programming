@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+ * main - Entry point
+ *
+ * Return: 1 if it's correct. 0 if it's not
+ */
 int main(void)
 {
         int n;
