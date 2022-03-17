@@ -2,11 +2,9 @@
 #include "main.h"
 
 /**
- * main - prints alphabet
- *
- * Description: a function that prints the alphabet, in lowercase, followed by a new line
- *
- */
+ * print_alphabet - uses the _putchar function to print alphabets in lower case
+ *                 
+*/
 void print_alphabet(void)
 {
 	char s;
