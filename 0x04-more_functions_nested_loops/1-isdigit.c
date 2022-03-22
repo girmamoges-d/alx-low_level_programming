@@ -3,7 +3,7 @@
 /**
  * _isdigit - Check if paramter c represents an digit.
  *
- * @c: character to check
+ * @c: int Int representing a character
  *
  * Return: return 0 or 1
  */
