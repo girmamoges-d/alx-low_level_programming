@@ -3,8 +3,7 @@
 /**
  * _isupper - checks if the parameter c is uppercase
  * @c: represent a character
- *
- * Return: gives 1 or 0
+ * Return:1 or 0
  */
 int _isupper(int c)
 {
