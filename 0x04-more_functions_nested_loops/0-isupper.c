@@ -3,11 +3,11 @@
 /**
  * _isupper - Check if paramter c represents an uppercase letter.
  * @c: Int representing a character
- * Return: 1 and 0
+ * Return:  gives 1 and 0
  */
 int _isupper(int c)
 {
-	if (c >= 65 && c <= 90)
+	if (c >= 'A' && c <= 'Z')
 	{
 		return (1);
 	}
