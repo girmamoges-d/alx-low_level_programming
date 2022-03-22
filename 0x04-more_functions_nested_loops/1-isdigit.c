@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _isdigit - Check if paramter c represents an digit.
  *
